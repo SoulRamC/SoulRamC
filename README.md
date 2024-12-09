@@ -27,10 +27,6 @@ a backend-focused developer who also enjoys crafting full-stack and mobile appli
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soulramc&theme=merko&hide_border=true&exclude_days=Fri%2CSat)
 
-## 😂 Here’s a random joke to brighten your day! 
-
-![Jokes Card](https://readme-jokes.vercel.app/api) 
-
 Feel free to connect with me and check out my repositories. I’m always open to collaborating on exciting projects and learning new technologies! 
 
 📫 **Email**: [samiramzi2000@gmail.com](mailto:samiramzi2000@gmail.com) 
